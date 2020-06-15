@@ -1,0 +1,31 @@
+_repo: Defensa-obligada-contra-acusaciones-gratuitas_62356
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Nozaleda, Bernardino
+    aliases:
+    - Villa, Bernardino Nozaleda de
+    - Villa, Bernardino Nozaleda y
+    birthdate: 1844
+    deathdate: 1927
+    gutenberg_agent_id: '51912'
+    url: http://www.gutenberg.org/2009/agents/51912
+    wikipedia: https://es.wikipedia.org/wiki/Bernardino_Nozaleda
+description: ''
+gutenberg_issued: '2020-06-09'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '62356'
+language: es
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Nozaleda, Bernardino 1844-1927'
+- !lcsh 'Spanish-American War, 1898 -- Religious aspects'
+- !lcsh 'Spanish-American War, 1898 -- Personal narratives, Spanish'
+- !lcsh 'War -- Religious aspects'
+- !lcc 'BX'
+- GITenberg
+title: Defensa obligada contra acusaciones gratuitas
+url: http://www.gutenberg.org/ebooks/62356
